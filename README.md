@@ -4,7 +4,7 @@ A minimal, powerful web app to instantly generate secure passwords with customiz
 
 ## 🚀 Live Demo
 
-🔗 [Live Link](passswordcreate.ccbp.tech)
+🔗 [Live Link](https://passswordcreate.ccbp.tech)
 
 ## 📸 Screenshots
 ### Noraml UI
